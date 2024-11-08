@@ -50,7 +50,7 @@ DETACHED=
 RONDB_SIZE=small
 SQL_INIT_SCRIPT_CLI_DIR=$SCRIPT_DIR/resources/sql_init_scripts
 RONDB_IMAGE_NAME=rondb
-RONDB_VERSION=22.10.5
+RONDB_VERSION=22.10.6
 
 function print_usage() {
     cat <<EOF

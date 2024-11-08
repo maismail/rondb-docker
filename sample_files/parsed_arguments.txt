@@ -4,8 +4,8 @@ RonDB-Docker version: dev
 Parsed arguments:
 #################
 
-RonDB version                 = 22.10.5
-RonDB tarball path            = ./rondb-22.10.5-linux-glibc2.28-arm64_v8.tar.gz
+RonDB version                 = 22.10.6
+RonDB tarball path            = ./rondb-22.10.6-linux-glibc2.28-arm64_v8.tar.gz
 RonDB tarball url             = 
 Number of management nodes    = 1
 Node groups                   = 1
