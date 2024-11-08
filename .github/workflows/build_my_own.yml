@@ -27,4 +27,5 @@ jobs:
                   --build-arg RONDB_VERSION=22.10.6 \
                   --build-arg RONDB_TARBALL_LOCAL_REMOTE=remote \
                   --build-arg RONDB_X86_TARBALL_URI=https://repo.hops.works/master/rondb-22.10.6-linux-glibc2.28-x86_64.tar.gz
+                  --push
   
