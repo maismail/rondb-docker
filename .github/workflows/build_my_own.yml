@@ -2,6 +2,9 @@ name: Build my own
 
 on:
     workflow_dispatch:
+    push:
+      branches:
+      - test_22.10.6
 
 jobs:
     build-test-push-x86:

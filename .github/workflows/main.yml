@@ -4,6 +4,9 @@ on:
   workflow_dispatch:
   # Launch on any push
   push:
+    branches:
+    - 'release-**'
+    - main
   pull_request:
     # Launch on PRs *towards* these branches
     branches:
